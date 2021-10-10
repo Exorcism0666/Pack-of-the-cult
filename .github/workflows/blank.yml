@@ -27,4 +27,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: $zip filename.zip Pack-of-the-cult
+        run: zip filename.zip n_maple_f.brstm n_maple_n.brstm r_64_kuppa32_f.brstm r_64_kuppa32_n.brstm
