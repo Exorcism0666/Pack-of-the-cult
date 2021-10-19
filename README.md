@@ -1,5 +1,5 @@
 # Pack-of-the-cult
-
+## ⚠️ Warning: It's better (if you have a European Wii) to set the language to `English` or (if you have a Japanese Wii) to set the language to `Japanese` so that the whole pack works correctly
 ```py
 --------------------------------------------------------
 MUSIC FILE NAMES
