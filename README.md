@@ -61,3 +61,21 @@ Lightning Cup
 32-N64 Bowser's Castle -> "r_64_kuppa32_n" (_f the last round)
 -----------------------------------------------------------------
 ```
+
+## Credit
+### The music used:
+
+`For Wii Cups:`
+- [@x0o0x_](https://www.youtube.com/channel/UCxIzG0XIBe1XMh5dz-qUkVg)
+
+`For GCN/N64/GBA/DS/SNES Cups:`
+- [@XYXYZ](https://www.youtube.com/channel/UCbPZMIbBZUKfLqIFL4SZ0Sw)
+
+- [彗](https://www.youtube.com/channel/UCksLB82ykcrIgM93WGbS12w)
+
+### For the pack recommend:
+All of UI, Model fixed, Font edited and Characters edit by [らいら](http://wiki.tockdom.com/wiki/%E3%82%89%E3%81%84%E3%82%891683)
+
+Original font by [Syara](http://wiki.tockdom.com/wiki/Syara)
+
+Some 3D model by [Atlas](http://wiki.tockdom.com/wiki/Atlas)
