@@ -1,5 +1,8 @@
 # Pack-of-the-cult
-## ⚠️ Warning: It's better (if you have a European Wii) to set the language to `English` or (if you have a Japanese Wii) to set the language to `Japanese` so that the whole pack works correctly
+## ⚠️ Warning (only if you want to use the recommend pack): 
+
+### It's better (if you have a European Wii) to set the language to `English` or (if you have a Japanese Wii) to set the language to `Japanese` so that the whole pack works correctly
+
 ```py
 --------------------------------------------------------
 MUSIC FILE NAMES
@@ -67,6 +70,8 @@ Lightning Cup
 
 `For Wii Cups:`
 - [@x0o0x_](https://www.youtube.com/channel/UCxIzG0XIBe1XMh5dz-qUkVg)
+
+- [Chogakusei](https://www.youtube.com/c/ChogakuseiOfficial)
 
 `For GCN/N64/GBA/DS/SNES Cups:`
 - [@XYXYZ](https://www.youtube.com/channel/UCbPZMIbBZUKfLqIFL4SZ0Sw)
