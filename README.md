@@ -62,6 +62,53 @@ Lightning Cup
 30-DS Peach Garden -> "r_ds_garden32_n" (_f the last round)
 31-GCN DK Mountain -> "r_gc_mountain32_n" (_f the last round)
 32-N64 Bowser's Castle -> "r_64_kuppa32_n" (_f the last round)
+
+Miscellaneous
+
+o_FanfareTA1st_32.brstm-------> Finish First / Winning Results (Battle)
+o_FanfareTA1st_only32.brstm---> Finish First (Battle)
+o_hyousyou_cut.brstm----------> Trophy presentation (Shorter)
+o_hyousyou_lose.brstm---------> No trophy
+o_hyousyou_normal.brstm-------> Trophy presentations (Short)
+o_hyousyou_winningrun.brstm---> Trophy presentation
+o_ Option_32.brstm-------------> Options
+o_Start2_32_fan.brstm---------> Start your engines (Time Trial)
+o_Start32_fan.brstm-----------> Start your engines (Race)
+strm_me.brstm ----------------> Band / Fanfare
+o_Wi-Fi_waiting32.brstm--------> Waiting to join (Wi-Fi) and ghost replay music
+o_Crs_In_Fan.brstm intro-------> Race (Race)
+o_Crs_In_Fan_battle.brstm-----> Race intro (Battle)
+o_Crs_In_Fan_Wifi.brstm-------> Race intro (Wi-Fi)
+o_Ending_PartA_32.brstm ------>- Generique1 end-game (Luigi Circuit)
+o_FanfareBTdraw_32.brstm-----> Draw / Winning Results (Battle)
+o_FanfareGP1_32.brstm---------> Finish First / Winning Results (Race)
+o_FanfareGP1_only32.brstm-----> Finish First (Race)
+* o_FanfareGP2_32.brstm---------> Finish Ok / Winning Results (Race)
+* o_FanfareGP2_only32.brstm-----> Finish Ok (Race)
+* o_FanfareGPdame_32.brstm -----> Finish-out / losing results (Race)
+* o_FanfareGPdame_only32.brstm--> Finish out (Race)
+* o_FanfareMIlose_32.brstm-------> Defeat / Losing Results (Battle)
+* o_FanfareMIlose_only32.brstm---> Defeat (Battle)
+* o_FanfareMIwin_32.brstm-------> Victory / Winning Results (Time Trial)
+* o_FanfareMIwin_only32.brstm---> Victory (Time Trial)
+* o_FanfareMIWinBoss_32.brstm---> Victory / Winning Results (Competition)
+* n_BossMI.brstm ----------------> (Galaxy Colosseum, which plays on SADX Twinkle Circuit)
+* o_FanfareTA1st_32 -------------> (Victory + winning results [battle], top player)
+* o_FanfareMIwin_32.brstm -------> (Also plays for victory + winning results [battle] when your team wins but you're not the top player)
+
+
+Battle Stages:
+
+Delfino Pier = n_venice_n (F for the last minute)
+Funky Stadium = n_skate_n (F for the last minute)
+N64 SkyScraper = r_64_battle_n (F for the last minute)
+GBA Battle Course 3= r_agb_battle_n (F for the last minute)
+DS Twilight House = r_DS_battle_n (F for the last minute)
+SNES Battle Course 4 = r_sfc_battle_n (F for the last minute)
+Block Plaza = n_block_n (F for the last minute)
+ChainChomp Roulette = n_casino_n (F for the last minute)
+GCN Cookieland = r_GC_Battle32_n (F for the last minute)
+Thwomp Desert = n_ryuusa_n (F for the last minute)
 -----------------------------------------------------------------
 ```
 
